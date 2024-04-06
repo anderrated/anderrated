@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/anderrated/anderrated/blob/main/github%20header.gif)](https://github.com/anderrated)
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">I'm a lifelong learner in the field of Computer Science from the Philippines ❤️</h3>
-<img align="right" alt="Computer" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19f1535b-749b-4a8e-8640-d429f027cd3c/de04f5f-61a4ed30-0269-4b7d-bf90-85c046193478.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE5ZjE1MzViLTc0OWItNGE4ZS04NjQwLWQ0MjlmMDI3Y2QzY1wvZGUwNGY1Zi02MWE0ZWQzMC0wMjY5LTRiN2QtYmY5MC04NWMwNDYxOTM0NzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CLEU3cu8m4v-1KBoYaUXJUKTuZI7WVWuNn1xo7uGUQY">
+<img align="right" alt="Computer" width="400" src="https://github.com/anderrated/anderrated/blob/main/lofi.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anderrated&label=Profile%20views&color=0e75b6&style=flat" alt="anderrated" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
