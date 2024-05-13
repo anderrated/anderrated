@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/anderrated/anderrated/blob/main/github%20header.gif)](https://github.com/anderrated)
-<h1 align="center">Hi 👋, I'm Andrea</h1>
+<h1 align="center">Hi 👋, I'm Anderrated</h1>
 <h3 align="center">I'm a lifelong learner in the field of Computer Science ❤️</h3>
 <img align="right" alt="Computer" width="400" height="250" src="https://github.com/anderrated/anderrated/blob/main/lofi.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anderrated&label=Profile%20views&color=0e75b6&style=flat" alt="anderrated" /> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Coding as a beginner**
 
-- 📫 How to reach me **andrealaserna1@gmail.com**
+- 📫 How to reach me **themilkfluff@gmail.com**
 
 - ⚡ Fun fact **I'm an ENTJ**
 
