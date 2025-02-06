@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Coding as a beginner**
 
-- 📫 How to reach me **themilkfluff@gmail.com**
+- 📫 How to reach me **thepixiewire@gmail.com**
 
 - ⚡ Fun fact **I'm an ENTJ**
 
