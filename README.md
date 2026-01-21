@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my college projects**
 
-- 🌱 I’m currently learning **Computer Architecture, Web Development, and Database Systems**
+- 🌱 I’m currently learning **Mobile Development, Machine Learning, and Software Engineering**
 
 - 💬 Ask me about **Coding as a beginner**
 
